@@ -90,7 +90,7 @@ int * readIntegers(const char * filename, int * numberOfIntegers)
 	fclose(fp);
 
    // printf("end read integers\n");
-	return arr;
+	return arr
 }
 
 /**
